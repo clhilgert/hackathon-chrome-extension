@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  width: 40rem;
+  height: 15rem;
+  background-color: rgb(255, 255, 255);
+  border-radius: 10px;
+
+}
